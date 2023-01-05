@@ -1,0 +1,14 @@
+/Users/shukufa/Projects/5 jan/Polymorphism/bin/Debug/netcoreapp3.1/Polymorphism
+/Users/shukufa/Projects/5 jan/Polymorphism/bin/Debug/netcoreapp3.1/Polymorphism.deps.json
+/Users/shukufa/Projects/5 jan/Polymorphism/bin/Debug/netcoreapp3.1/Polymorphism.runtimeconfig.json
+/Users/shukufa/Projects/5 jan/Polymorphism/bin/Debug/netcoreapp3.1/Polymorphism.runtimeconfig.dev.json
+/Users/shukufa/Projects/5 jan/Polymorphism/bin/Debug/netcoreapp3.1/Polymorphism.dll
+/Users/shukufa/Projects/5 jan/Polymorphism/bin/Debug/netcoreapp3.1/Polymorphism.pdb
+/Users/shukufa/Projects/5 jan/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.csproj.AssemblyReference.cache
+/Users/shukufa/Projects/5 jan/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shukufa/Projects/5 jan/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.AssemblyInfoInputs.cache
+/Users/shukufa/Projects/5 jan/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.AssemblyInfo.cs
+/Users/shukufa/Projects/5 jan/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.csproj.CoreCompileInputs.cache
+/Users/shukufa/Projects/5 jan/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.dll
+/Users/shukufa/Projects/5 jan/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.pdb
+/Users/shukufa/Projects/5 jan/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+/Users/shukufa/Projects/5 jan/5 jan/bin/Debug/netcoreapp3.1/5 jan
+/Users/shukufa/Projects/5 jan/5 jan/bin/Debug/netcoreapp3.1/5 jan.deps.json
+/Users/shukufa/Projects/5 jan/5 jan/bin/Debug/netcoreapp3.1/5 jan.runtimeconfig.json
+/Users/shukufa/Projects/5 jan/5 jan/bin/Debug/netcoreapp3.1/5 jan.runtimeconfig.dev.json
+/Users/shukufa/Projects/5 jan/5 jan/bin/Debug/netcoreapp3.1/5 jan.dll
+/Users/shukufa/Projects/5 jan/5 jan/bin/Debug/netcoreapp3.1/5 jan.pdb
+/Users/shukufa/Projects/5 jan/5 jan/obj/Debug/netcoreapp3.1/Casting.csproj.AssemblyReference.cache
+/Users/shukufa/Projects/5 jan/5 jan/obj/Debug/netcoreapp3.1/Casting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shukufa/Projects/5 jan/5 jan/obj/Debug/netcoreapp3.1/Casting.AssemblyInfoInputs.cache
+/Users/shukufa/Projects/5 jan/5 jan/obj/Debug/netcoreapp3.1/Casting.AssemblyInfo.cs
+/Users/shukufa/Projects/5 jan/5 jan/obj/Debug/netcoreapp3.1/Casting.csproj.CoreCompileInputs.cache
+/Users/shukufa/Projects/5 jan/5 jan/obj/Debug/netcoreapp3.1/5 jan.dll
+/Users/shukufa/Projects/5 jan/5 jan/obj/Debug/netcoreapp3.1/5 jan.pdb
+/Users/shukufa/Projects/5 jan/5 jan/obj/Debug/netcoreapp3.1/Casting.genruntimeconfig.cache

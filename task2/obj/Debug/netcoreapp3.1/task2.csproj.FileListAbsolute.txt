@@ -1,0 +1,14 @@
+/Users/shukufa/Projects/5 jan/task2/bin/Debug/netcoreapp3.1/task2
+/Users/shukufa/Projects/5 jan/task2/bin/Debug/netcoreapp3.1/task2.deps.json
+/Users/shukufa/Projects/5 jan/task2/bin/Debug/netcoreapp3.1/task2.runtimeconfig.json
+/Users/shukufa/Projects/5 jan/task2/bin/Debug/netcoreapp3.1/task2.runtimeconfig.dev.json
+/Users/shukufa/Projects/5 jan/task2/bin/Debug/netcoreapp3.1/task2.dll
+/Users/shukufa/Projects/5 jan/task2/bin/Debug/netcoreapp3.1/task2.pdb
+/Users/shukufa/Projects/5 jan/task2/obj/Debug/netcoreapp3.1/task2.csproj.AssemblyReference.cache
+/Users/shukufa/Projects/5 jan/task2/obj/Debug/netcoreapp3.1/task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shukufa/Projects/5 jan/task2/obj/Debug/netcoreapp3.1/task2.AssemblyInfoInputs.cache
+/Users/shukufa/Projects/5 jan/task2/obj/Debug/netcoreapp3.1/task2.AssemblyInfo.cs
+/Users/shukufa/Projects/5 jan/task2/obj/Debug/netcoreapp3.1/task2.csproj.CoreCompileInputs.cache
+/Users/shukufa/Projects/5 jan/task2/obj/Debug/netcoreapp3.1/task2.dll
+/Users/shukufa/Projects/5 jan/task2/obj/Debug/netcoreapp3.1/task2.pdb
+/Users/shukufa/Projects/5 jan/task2/obj/Debug/netcoreapp3.1/task2.genruntimeconfig.cache
